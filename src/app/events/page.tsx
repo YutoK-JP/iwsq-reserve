@@ -1,4 +1,4 @@
-import { Header } from '../header';
+import { Header } from '../ui/header';
 
 export default function Page() {
   return (

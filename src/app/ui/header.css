@@ -1,0 +1,15 @@
+.header-logo{
+  margin:20px;
+  margin-left: 3em;
+}
+
+.header-wrapper{
+  display: flex;
+  align-items: center;
+}
+
+.header-title{
+  vertical-align: middle;
+  font-size: xx-large;
+  margin-left: 2em;
+}
